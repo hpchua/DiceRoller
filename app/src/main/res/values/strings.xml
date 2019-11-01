@@ -1,0 +1,8 @@
+<resources>
+    <!-- App title -->
+    <string name="app_name">Dice Roller</string>
+
+    <!-- Button label -->
+    <string name="roll_label">Roll</string>
+    <string name="count_up">Count Up</string>
+</resources>
